@@ -1,6 +1,13 @@
 # Python Live Project
 ## Introduction
-At the end of the Python course at The Tech Academy, I worked alongside other students over a two week sprint creating a CRUD app with Django. My app was created solely by me but had to fit into the larger project site that housed all of our apps. Below is a description of the functionality with code snippets of what I created.
+At the end of the Python course at The Tech Academy, I worked alongside other students creating a CRUD app with Django. My app was created solely by me but had to fit into the larger project site that housed all of our apps. The project was meant to imitate a real work environment and was run following Agile and SCRUM principles with a sprint planning session, daily stand up meetings, and retrospectives at the end of both weeks of the two week sprint. Below is a description of the functionality with code snippets of what I created.
+
+## Acquired Skills
+- Agile/Scrum
+- Programming in a team environment
+- Azure DevOps
+- Producing a web app from scratch with Django
+- Working with a remote repository with git
 
 ## CRUD Functionality
 My app's purpose is to allow users to create a list of their favorite film directors.
